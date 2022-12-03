@@ -1,6 +1,5 @@
 import { input } from "./01.input.ts";
 
-// ⭐️
 function solve(input: string) {
   const lines = input.split("\n");
   let currentTotal = 0;
